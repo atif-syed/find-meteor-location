@@ -10,5 +10,5 @@ pipenv install requests
 
 ## Running the script
 
-This script requires python3 and requests package. Syntax below
-python3 find_meteor.py
+Usage :
+pipenv run python meteors\find_meteors.py
